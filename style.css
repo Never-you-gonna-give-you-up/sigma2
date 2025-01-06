@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    Background-color: purple;
+    color: white;
+    text-align: center;
+}
+header {
+    background-color: blueviolet;
+    border: 10px dotted gray;
+}
+footer {
+    background-color: burlywood;
+    border: 12px dotted gray;
+}
+.middle {
+    background-color: blue;
+    border: 15px dotted gray;
+}
+.video {
+    background-color: darkgoldenrod;
+    border: 20px dotted gray;
+}
+nav {
+    border-top: 3px solid royalblue;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid royalblue;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
